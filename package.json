@@ -1,0 +1,19 @@
+{
+  "name": "back-project",
+  "version": "1.0.0",
+  "description": "create a back project",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit7Raitwar/Back-end.git"
+  },
+  "author": "Ankit Raitwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit7Raitwar/Back-end/issues"
+  },
+  "homepage": "https://github.com/Ankit7Raitwar/Back-end#readme"
+}
